@@ -1,4 +1,4 @@
-Nanterre_Modoap_Similarite_image
+Modoap_Similarite_image
 
 Ce notebook permet de calculer la similarité entre une image donnée et les images d'un corpus présent sur un Google Drive. Il dispose de trois fonctionnalités :
 
